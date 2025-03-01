@@ -64,7 +64,3 @@ Never expose your API key in the frontend. In a production environment, you shou
 2. Implement proper authentication
 3. Use environment variables
 4. Add rate limiting
-
-## License
-
-MIT License - Feel free to use and modify!
